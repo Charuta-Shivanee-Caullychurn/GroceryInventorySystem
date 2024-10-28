@@ -1,0 +1,501 @@
+Item Code,Name,Category,Unit Price,Quantity
+ITM-1000,Frozen Veggies,Beverages,28.8,50
+ITM-1001,Tomatoes,Produce,28.99,11
+ITM-1002,Croissants,Bakery,5.81,148
+ITM-1003,Frozen Veggies,Produce,48.89,161
+ITM-1004,Butter,Frozen Foods,47.35,128
+ITM-1005,Water,Dairy,7.82,104
+ITM-1006,Juice,Frozen Foods,9.55,45
+ITM-1007,Frozen Chicken,Beverages,45.35,6
+ITM-1008,Frozen Chicken,Bakery,49.39,113
+ITM-1009,Cake,Beverages,36.33,9
+ITM-1010,Juice,Beverages,12.19,179
+ITM-1011,Muffins,Frozen Foods,2.24,5
+ITM-1012,Water,Dairy,16.66,64
+ITM-1013,Tomatoes,Produce,29.86,171
+ITM-1014,Juice,Frozen Foods,36.62,127
+ITM-1015,Muffins,Dairy,20.01,154
+ITM-1016,Water,Frozen Foods,11.91,50
+ITM-1017,Frozen Pizza,Produce,8.13,162
+ITM-1018,Croissants,Produce,24.0,145
+ITM-1019,Yogurt,Bakery,32.79,151
+ITM-1020,Frozen Pizza,Frozen Foods,22.84,102
+ITM-1021,Frozen Pizza,Beverages,29.46,83
+ITM-1022,Cake,Produce,41.85,78
+ITM-1023,Tomatoes,Produce,24.27,57
+ITM-1024,Yogurt,Produce,3.41,166
+ITM-1025,Soda,Produce,42.83,184
+ITM-1026,Butter,Dairy,2.53,179
+ITM-1027,Cake,Frozen Foods,31.0,59
+ITM-1028,Bread,Bakery,18.73,41
+ITM-1029,Milk,Beverages,20.21,22
+ITM-1030,Frozen Pizza,Dairy,43.58,31
+ITM-1031,Muffins,Produce,31.28,113
+ITM-1032,Soda,Dairy,6.95,186
+ITM-1033,Soda,Beverages,24.73,64
+ITM-1034,Grapes,Bakery,3.05,8
+ITM-1035,Bananas,Frozen Foods,5.46,183
+ITM-1036,Muffins,Beverages,20.77,24
+ITM-1037,Frozen Chicken,Beverages,40.25,113
+ITM-1038,Tomatoes,Beverages,12.96,159
+ITM-1039,Frozen Pizza,Produce,10.98,85
+ITM-1040,Muffins,Dairy,20.32,85
+ITM-1041,Cheese,Frozen Foods,34.73,194
+ITM-1042,Tomatoes,Frozen Foods,10.03,114
+ITM-1043,Grapes,Dairy,43.73,153
+ITM-1044,Frozen Chicken,Dairy,18.85,145
+ITM-1045,Tomatoes,Frozen Foods,12.33,127
+ITM-1046,Juice,Frozen Foods,47.9,85
+ITM-1047,Soda,Produce,41.4,124
+ITM-1048,Bananas,Dairy,35.98,103
+ITM-1049,Bananas,Frozen Foods,10.83,22
+ITM-1050,Grapes,Beverages,4.65,9
+ITM-1051,Bananas,Beverages,8.06,60
+ITM-1052,Cheese,Bakery,17.18,161
+ITM-1053,Coffee,Produce,33.71,158
+ITM-1054,Grapes,Produce,49.0,123
+ITM-1055,Yogurt,Beverages,22.32,137
+ITM-1056,Coffee,Frozen Foods,5.16,56
+ITM-1057,Ice Cream,Dairy,24.47,129
+ITM-1058,Milk,Beverages,12.59,79
+ITM-1059,Juice,Bakery,24.96,55
+ITM-1060,Muffins,Produce,31.56,48
+ITM-1061,Water,Dairy,17.34,118
+ITM-1062,Frozen Chicken,Frozen Foods,3.73,120
+ITM-1063,Coffee,Beverages,34.3,134
+ITM-1064,Tomatoes,Frozen Foods,14.09,42
+ITM-1065,Tomatoes,Bakery,28.24,124
+ITM-1066,Bread,Produce,19.18,97
+ITM-1067,Juice,Dairy,32.52,164
+ITM-1068,Juice,Bakery,34.82,153
+ITM-1069,Croissants,Frozen Foods,31.97,92
+ITM-1070,Cake,Frozen Foods,20.53,157
+ITM-1071,Cheese,Frozen Foods,21.86,109
+ITM-1072,Frozen Pizza,Bakery,43.06,36
+ITM-1073,Soda,Bakery,24.98,65
+ITM-1074,Cake,Frozen Foods,49.34,193
+ITM-1075,Cheese,Produce,33.23,97
+ITM-1076,Milk,Frozen Foods,6.23,148
+ITM-1077,Cheese,Produce,35.38,66
+ITM-1078,Muffins,Produce,7.2,31
+ITM-1079,Frozen Chicken,Dairy,9.11,49
+ITM-1080,Muffins,Bakery,16.76,188
+ITM-1081,Butter,Beverages,17.2,195
+ITM-1082,Yogurt,Dairy,47.79,100
+ITM-1083,Butter,Beverages,46.22,137
+ITM-1084,Grapes,Dairy,23.13,157
+ITM-1085,Croissants,Dairy,12.85,17
+ITM-1086,Croissants,Frozen Foods,9.16,32
+ITM-1087,Frozen Chicken,Bakery,35.54,200
+ITM-1088,Bread,Bakery,15.79,109
+ITM-1089,Bread,Dairy,7.22,112
+ITM-1090,Milk,Dairy,38.66,83
+ITM-1091,Soda,Beverages,18.69,16
+ITM-1092,Frozen Veggies,Frozen Foods,14.98,59
+ITM-1093,Soda,Bakery,22.36,24
+ITM-1094,Juice,Produce,10.39,185
+ITM-1095,Apples,Beverages,44.22,22
+ITM-1096,Frozen Veggies,Produce,17.15,197
+ITM-1097,Juice,Dairy,31.56,26
+ITM-1098,Milk,Frozen Foods,49.76,106
+ITM-1099,Ice Cream,Bakery,45.88,56
+ITM-1100,Tomatoes,Dairy,3.48,21
+ITM-1101,Frozen Veggies,Dairy,42.83,9
+ITM-1102,Soda,Beverages,42.74,84
+ITM-1103,Apples,Beverages,23.03,9
+ITM-1104,Bread,Dairy,31.66,20
+ITM-1105,Coffee,Beverages,32.91,177
+ITM-1106,Milk,Frozen Foods,49.22,131
+ITM-1107,Frozen Pizza,Beverages,49.53,146
+ITM-1108,Butter,Bakery,44.55,12
+ITM-1109,Frozen Pizza,Bakery,8.08,47
+ITM-1110,Apples,Dairy,9.22,73
+ITM-1111,Frozen Pizza,Produce,13.36,13
+ITM-1112,Frozen Chicken,Dairy,4.18,101
+ITM-1113,Frozen Pizza,Frozen Foods,45.64,186
+ITM-1114,Tomatoes,Bakery,5.91,89
+ITM-1115,Muffins,Produce,44.64,69
+ITM-1116,Croissants,Frozen Foods,28.38,106
+ITM-1117,Grapes,Produce,49.55,83
+ITM-1118,Yogurt,Beverages,33.2,122
+ITM-1119,Muffins,Beverages,22.98,12
+ITM-1120,Soda,Produce,29.78,111
+ITM-1121,Frozen Chicken,Frozen Foods,35.03,160
+ITM-1122,Soda,Dairy,32.15,182
+ITM-1123,Tomatoes,Frozen Foods,27.1,28
+ITM-1124,Frozen Pizza,Produce,25.07,105
+ITM-1125,Milk,Produce,9.47,69
+ITM-1126,Tomatoes,Dairy,32.5,95
+ITM-1127,Frozen Pizza,Frozen Foods,37.24,41
+ITM-1128,Bread,Beverages,28.63,124
+ITM-1129,Frozen Chicken,Frozen Foods,43.57,79
+ITM-1130,Tomatoes,Beverages,1.56,35
+ITM-1131,Juice,Frozen Foods,40.41,109
+ITM-1132,Water,Bakery,37.2,24
+ITM-1133,Milk,Bakery,24.22,141
+ITM-1134,Apples,Beverages,40.31,132
+ITM-1135,Apples,Bakery,30.96,58
+ITM-1136,Grapes,Produce,5.23,119
+ITM-1137,Bread,Produce,24.49,144
+ITM-1138,Tomatoes,Beverages,49.55,101
+ITM-1139,Bread,Frozen Foods,16.49,72
+ITM-1140,Cheese,Dairy,37.68,58
+ITM-1141,Muffins,Frozen Foods,19.36,157
+ITM-1142,Ice Cream,Bakery,24.04,37
+ITM-1143,Water,Produce,12.99,121
+ITM-1144,Milk,Dairy,10.39,108
+ITM-1145,Soda,Dairy,9.24,43
+ITM-1146,Frozen Pizza,Frozen Foods,49.13,35
+ITM-1147,Bread,Beverages,1.67,164
+ITM-1148,Soda,Produce,30.33,160
+ITM-1149,Muffins,Frozen Foods,37.35,141
+ITM-1150,Juice,Dairy,2.34,97
+ITM-1151,Coffee,Dairy,36.11,161
+ITM-1152,Tomatoes,Dairy,25.37,85
+ITM-1153,Frozen Veggies,Bakery,36.52,50
+ITM-1154,Cake,Frozen Foods,48.68,52
+ITM-1155,Cake,Dairy,34.8,118
+ITM-1156,Grapes,Frozen Foods,8.65,65
+ITM-1157,Grapes,Bakery,11.58,36
+ITM-1158,Butter,Produce,12.08,111
+ITM-1159,Frozen Pizza,Frozen Foods,5.99,151
+ITM-1160,Muffins,Bakery,32.68,113
+ITM-1161,Yogurt,Beverages,9.06,76
+ITM-1162,Frozen Veggies,Beverages,8.83,43
+ITM-1163,Grapes,Produce,22.8,178
+ITM-1164,Cake,Bakery,15.09,12
+ITM-1165,Water,Bakery,21.89,133
+ITM-1166,Bread,Produce,5.74,50
+ITM-1167,Coffee,Beverages,30.95,106
+ITM-1168,Coffee,Beverages,1.93,74
+ITM-1169,Cheese,Bakery,5.65,7
+ITM-1170,Yogurt,Frozen Foods,1.61,93
+ITM-1171,Water,Frozen Foods,6.74,61
+ITM-1172,Muffins,Dairy,7.04,3
+ITM-1173,Butter,Dairy,4.09,65
+ITM-1174,Butter,Beverages,7.6,163
+ITM-1175,Ice Cream,Dairy,48.63,1
+ITM-1176,Grapes,Bakery,7.27,65
+ITM-1177,Grapes,Dairy,45.87,141
+ITM-1178,Muffins,Dairy,44.49,57
+ITM-1179,Cake,Dairy,29.75,28
+ITM-1180,Water,Frozen Foods,7.16,4
+ITM-1181,Frozen Pizza,Frozen Foods,19.37,120
+ITM-1182,Bananas,Dairy,41.53,134
+ITM-1183,Cheese,Dairy,27.57,107
+ITM-1184,Croissants,Bakery,41.12,10
+ITM-1185,Frozen Veggies,Dairy,44.17,115
+ITM-1186,Muffins,Dairy,33.22,52
+ITM-1187,Cheese,Produce,28.87,37
+ITM-1188,Apples,Beverages,4.77,183
+ITM-1189,Muffins,Produce,5.36,124
+ITM-1190,Milk,Bakery,10.25,49
+ITM-1191,Bananas,Frozen Foods,6.97,176
+ITM-1192,Grapes,Bakery,40.49,44
+ITM-1193,Tomatoes,Beverages,38.17,120
+ITM-1194,Frozen Veggies,Bakery,45.32,53
+ITM-1195,Cheese,Beverages,29.11,9
+ITM-1196,Bread,Beverages,44.0,8
+ITM-1197,Bananas,Dairy,25.41,69
+ITM-1198,Tomatoes,Produce,9.73,65
+ITM-1199,Butter,Beverages,31.84,53
+ITM-1200,Frozen Veggies,Dairy,33.74,164
+ITM-1201,Butter,Frozen Foods,45.71,74
+ITM-1202,Frozen Pizza,Bakery,6.92,111
+ITM-1203,Yogurt,Dairy,12.64,138
+ITM-1204,Cheese,Dairy,41.77,3
+ITM-1205,Cheese,Produce,11.75,38
+ITM-1206,Milk,Dairy,23.55,54
+ITM-1207,Frozen Pizza,Beverages,42.02,54
+ITM-1208,Croissants,Frozen Foods,25.32,13
+ITM-1209,Ice Cream,Dairy,49.15,6
+ITM-1210,Frozen Chicken,Frozen Foods,3.77,140
+ITM-1211,Bananas,Produce,37.66,24
+ITM-1212,Cake,Produce,29.97,16
+ITM-1213,Cheese,Produce,49.95,165
+ITM-1214,Grapes,Frozen Foods,45.05,41
+ITM-1215,Tomatoes,Frozen Foods,40.91,135
+ITM-1216,Frozen Veggies,Dairy,40.38,121
+ITM-1217,Ice Cream,Produce,35.68,152
+ITM-1218,Cheese,Dairy,2.59,129
+ITM-1219,Cheese,Beverages,39.89,120
+ITM-1220,Soda,Beverages,22.48,62
+ITM-1221,Bread,Produce,34.79,80
+ITM-1222,Butter,Frozen Foods,36.94,170
+ITM-1223,Ice Cream,Bakery,30.87,187
+ITM-1224,Soda,Dairy,44.71,24
+ITM-1225,Milk,Bakery,41.94,148
+ITM-1226,Croissants,Produce,15.47,20
+ITM-1227,Bread,Frozen Foods,45.51,42
+ITM-1228,Frozen Pizza,Frozen Foods,25.88,166
+ITM-1229,Coffee,Dairy,43.09,18
+ITM-1230,Water,Frozen Foods,38.94,41
+ITM-1231,Cake,Dairy,23.42,73
+ITM-1232,Water,Beverages,28.56,58
+ITM-1233,Soda,Dairy,39.06,75
+ITM-1234,Frozen Veggies,Dairy,40.8,95
+ITM-1235,Cheese,Frozen Foods,20.0,73
+ITM-1236,Juice,Bakery,7.67,133
+ITM-1237,Ice Cream,Bakery,34.06,28
+ITM-1238,Apples,Bakery,8.56,49
+ITM-1239,Muffins,Bakery,12.7,39
+ITM-1240,Grapes,Produce,1.53,159
+ITM-1241,Cheese,Dairy,20.09,146
+ITM-1242,Cake,Frozen Foods,3.58,68
+ITM-1243,Bread,Beverages,34.88,99
+ITM-1244,Butter,Beverages,44.75,85
+ITM-1245,Cheese,Bakery,39.07,56
+ITM-1246,Tomatoes,Produce,43.58,62
+ITM-1247,Milk,Produce,37.27,183
+ITM-1248,Bread,Dairy,34.45,82
+ITM-1249,Apples,Dairy,49.96,109
+ITM-1250,Croissants,Bakery,17.17,37
+ITM-1251,Grapes,Beverages,35.98,173
+ITM-1252,Muffins,Produce,42.81,49
+ITM-1253,Frozen Pizza,Produce,38.66,52
+ITM-1254,Croissants,Bakery,8.32,198
+ITM-1255,Cheese,Frozen Foods,30.99,44
+ITM-1256,Frozen Pizza,Dairy,21.33,83
+ITM-1257,Apples,Beverages,35.94,190
+ITM-1258,Frozen Pizza,Bakery,16.41,103
+ITM-1259,Grapes,Produce,14.65,22
+ITM-1260,Juice,Frozen Foods,39.44,199
+ITM-1261,Tomatoes,Produce,36.54,152
+ITM-1262,Bananas,Dairy,15.25,109
+ITM-1263,Apples,Dairy,38.21,5
+ITM-1264,Milk,Beverages,29.21,127
+ITM-1265,Soda,Produce,45.69,153
+ITM-1266,Bananas,Frozen Foods,29.41,22
+ITM-1267,Muffins,Beverages,4.3,29
+ITM-1268,Water,Frozen Foods,42.1,42
+ITM-1269,Frozen Pizza,Dairy,39.54,32
+ITM-1270,Cake,Beverages,10.03,87
+ITM-1271,Bread,Bakery,27.96,175
+ITM-1272,Ice Cream,Beverages,27.44,31
+ITM-1273,Apples,Frozen Foods,10.5,112
+ITM-1274,Butter,Produce,2.38,123
+ITM-1275,Cheese,Beverages,26.57,40
+ITM-1276,Ice Cream,Bakery,39.74,64
+ITM-1277,Soda,Bakery,35.9,2
+ITM-1278,Juice,Dairy,36.69,137
+ITM-1279,Muffins,Bakery,32.48,23
+ITM-1280,Bananas,Frozen Foods,30.1,82
+ITM-1281,Frozen Chicken,Bakery,27.03,118
+ITM-1282,Milk,Bakery,7.5,36
+ITM-1283,Milk,Produce,8.47,149
+ITM-1284,Bananas,Beverages,6.04,119
+ITM-1285,Butter,Produce,33.07,194
+ITM-1286,Bananas,Dairy,18.21,14
+ITM-1287,Cheese,Dairy,16.21,39
+ITM-1288,Bananas,Produce,32.04,198
+ITM-1289,Tomatoes,Frozen Foods,12.2,93
+ITM-1290,Croissants,Frozen Foods,27.67,51
+ITM-1291,Tomatoes,Bakery,14.71,16
+ITM-1292,Coffee,Frozen Foods,48.09,170
+ITM-1293,Cake,Frozen Foods,40.91,179
+ITM-1294,Frozen Pizza,Produce,38.62,56
+ITM-1295,Frozen Veggies,Frozen Foods,12.58,177
+ITM-1296,Frozen Veggies,Bakery,6.37,134
+ITM-1297,Soda,Produce,28.2,7
+ITM-1298,Croissants,Dairy,22.67,182
+ITM-1299,Bread,Beverages,46.54,155
+ITM-1300,Butter,Bakery,32.8,129
+ITM-1301,Bread,Beverages,17.25,31
+ITM-1302,Butter,Dairy,33.79,129
+ITM-1303,Butter,Frozen Foods,49.24,41
+ITM-1304,Tomatoes,Frozen Foods,5.29,15
+ITM-1305,Frozen Pizza,Dairy,36.36,153
+ITM-1306,Milk,Dairy,23.43,26
+ITM-1307,Frozen Pizza,Beverages,25.84,97
+ITM-1308,Frozen Pizza,Frozen Foods,16.22,106
+ITM-1309,Apples,Bakery,41.57,72
+ITM-1310,Apples,Bakery,40.85,82
+ITM-1311,Milk,Produce,40.03,52
+ITM-1312,Juice,Frozen Foods,21.82,149
+ITM-1313,Croissants,Bakery,36.68,151
+ITM-1314,Yogurt,Frozen Foods,39.58,44
+ITM-1315,Ice Cream,Dairy,49.29,39
+ITM-1316,Frozen Pizza,Frozen Foods,12.03,114
+ITM-1317,Ice Cream,Bakery,31.15,155
+ITM-1318,Cake,Produce,39.53,42
+ITM-1319,Bread,Bakery,25.3,160
+ITM-1320,Croissants,Dairy,2.05,6
+ITM-1321,Juice,Frozen Foods,12.2,117
+ITM-1322,Cake,Dairy,5.79,126
+ITM-1323,Muffins,Bakery,1.15,38
+ITM-1324,Muffins,Frozen Foods,23.97,108
+ITM-1325,Cheese,Dairy,41.99,21
+ITM-1326,Frozen Pizza,Frozen Foods,36.32,191
+ITM-1327,Croissants,Beverages,12.45,36
+ITM-1328,Cheese,Frozen Foods,41.47,30
+ITM-1329,Juice,Dairy,30.31,198
+ITM-1330,Muffins,Frozen Foods,37.5,176
+ITM-1331,Grapes,Produce,6.26,40
+ITM-1332,Milk,Bakery,30.25,39
+ITM-1333,Frozen Veggies,Produce,48.15,54
+ITM-1334,Soda,Dairy,39.68,71
+ITM-1335,Cheese,Beverages,6.36,93
+ITM-1336,Muffins,Frozen Foods,24.6,50
+ITM-1337,Cheese,Produce,29.67,187
+ITM-1338,Coffee,Frozen Foods,6.4,23
+ITM-1339,Croissants,Frozen Foods,49.66,123
+ITM-1340,Apples,Produce,12.18,153
+ITM-1341,Frozen Chicken,Bakery,1.63,18
+ITM-1342,Cheese,Dairy,19.01,51
+ITM-1343,Water,Frozen Foods,35.34,79
+ITM-1344,Frozen Veggies,Produce,9.0,159
+ITM-1345,Bread,Frozen Foods,45.82,99
+ITM-1346,Water,Beverages,17.68,13
+ITM-1347,Bread,Bakery,35.42,69
+ITM-1348,Frozen Chicken,Dairy,23.71,130
+ITM-1349,Tomatoes,Beverages,22.66,81
+ITM-1350,Soda,Produce,12.15,106
+ITM-1351,Butter,Bakery,4.17,153
+ITM-1352,Bread,Dairy,14.23,181
+ITM-1353,Bananas,Dairy,38.94,112
+ITM-1354,Cake,Bakery,6.68,42
+ITM-1355,Muffins,Beverages,13.0,122
+ITM-1356,Milk,Produce,24.53,34
+ITM-1357,Yogurt,Frozen Foods,29.27,40
+ITM-1358,Grapes,Bakery,45.24,195
+ITM-1359,Ice Cream,Bakery,27.46,30
+ITM-1360,Butter,Bakery,12.61,26
+ITM-1361,Water,Dairy,9.34,125
+ITM-1362,Butter,Bakery,3.38,184
+ITM-1363,Butter,Dairy,3.64,36
+ITM-1364,Muffins,Frozen Foods,41.64,92
+ITM-1365,Milk,Dairy,16.44,25
+ITM-1366,Apples,Frozen Foods,46.91,182
+ITM-1367,Bread,Bakery,17.86,179
+ITM-1368,Croissants,Bakery,22.85,127
+ITM-1369,Butter,Bakery,20.64,79
+ITM-1370,Ice Cream,Frozen Foods,2.67,158
+ITM-1371,Coffee,Dairy,16.31,200
+ITM-1372,Soda,Beverages,18.01,58
+ITM-1373,Bananas,Dairy,33.06,153
+ITM-1374,Butter,Produce,25.03,168
+ITM-1375,Cake,Beverages,11.78,125
+ITM-1376,Ice Cream,Produce,15.08,121
+ITM-1377,Frozen Chicken,Dairy,22.42,68
+ITM-1378,Soda,Bakery,47.3,97
+ITM-1379,Grapes,Beverages,15.55,121
+ITM-1380,Cheese,Beverages,33.37,133
+ITM-1381,Milk,Beverages,47.35,88
+ITM-1382,Tomatoes,Produce,45.02,150
+ITM-1383,Apples,Dairy,33.6,146
+ITM-1384,Frozen Chicken,Dairy,3.74,95
+ITM-1385,Frozen Pizza,Beverages,15.54,11
+ITM-1386,Cake,Dairy,11.08,48
+ITM-1387,Milk,Produce,36.61,5
+ITM-1388,Frozen Pizza,Produce,40.2,117
+ITM-1389,Frozen Veggies,Produce,47.13,119
+ITM-1390,Ice Cream,Beverages,3.84,57
+ITM-1391,Frozen Veggies,Dairy,45.92,64
+ITM-1392,Cake,Beverages,9.35,139
+ITM-1393,Ice Cream,Bakery,48.47,127
+ITM-1394,Cheese,Bakery,13.64,47
+ITM-1395,Bananas,Bakery,42.45,160
+ITM-1396,Bananas,Bakery,8.14,38
+ITM-1397,Frozen Pizza,Beverages,29.3,141
+ITM-1398,Croissants,Bakery,38.07,4
+ITM-1399,Soda,Beverages,12.58,63
+ITM-1400,Bananas,Frozen Foods,32.99,162
+ITM-1401,Cheese,Frozen Foods,18.55,168
+ITM-1402,Bananas,Produce,22.26,12
+ITM-1403,Muffins,Dairy,12.91,113
+ITM-1404,Coffee,Bakery,14.18,100
+ITM-1405,Frozen Chicken,Dairy,8.07,184
+ITM-1406,Milk,Beverages,42.74,103
+ITM-1407,Milk,Beverages,24.76,175
+ITM-1408,Muffins,Produce,21.62,162
+ITM-1409,Frozen Chicken,Dairy,27.56,106
+ITM-1410,Yogurt,Produce,35.33,2
+ITM-1411,Cake,Dairy,42.09,181
+ITM-1412,Milk,Frozen Foods,23.88,136
+ITM-1413,Juice,Produce,37.03,130
+ITM-1414,Frozen Chicken,Beverages,37.42,147
+ITM-1415,Apples,Beverages,2.9,187
+ITM-1416,Apples,Beverages,23.07,113
+ITM-1417,Bananas,Dairy,23.3,97
+ITM-1418,Butter,Bakery,3.08,53
+ITM-1419,Grapes,Bakery,39.66,42
+ITM-1420,Cake,Dairy,7.39,4
+ITM-1421,Grapes,Frozen Foods,34.41,130
+ITM-1422,Cheese,Dairy,26.16,52
+ITM-1423,Grapes,Beverages,49.58,187
+ITM-1424,Butter,Bakery,45.35,81
+ITM-1425,Cake,Beverages,3.19,57
+ITM-1426,Frozen Pizza,Frozen Foods,7.99,24
+ITM-1427,Yogurt,Bakery,17.27,129
+ITM-1428,Frozen Pizza,Produce,46.86,163
+ITM-1429,Frozen Chicken,Beverages,45.17,142
+ITM-1430,Bread,Bakery,36.21,127
+ITM-1431,Frozen Veggies,Frozen Foods,9.64,101
+ITM-1432,Muffins,Beverages,2.78,125
+ITM-1433,Soda,Beverages,36.39,101
+ITM-1434,Cake,Frozen Foods,38.6,29
+ITM-1435,Frozen Chicken,Beverages,12.36,39
+ITM-1436,Apples,Bakery,16.34,36
+ITM-1437,Juice,Beverages,7.67,79
+ITM-1438,Water,Produce,17.65,5
+ITM-1439,Juice,Beverages,39.15,61
+ITM-1440,Grapes,Bakery,38.6,171
+ITM-1441,Bananas,Frozen Foods,8.38,13
+ITM-1442,Tomatoes,Produce,1.24,112
+ITM-1443,Apples,Produce,38.03,127
+ITM-1444,Soda,Bakery,4.69,42
+ITM-1445,Frozen Chicken,Produce,3.46,91
+ITM-1446,Frozen Veggies,Beverages,18.1,31
+ITM-1447,Bread,Frozen Foods,20.12,184
+ITM-1448,Bananas,Bakery,23.24,149
+ITM-1449,Milk,Produce,26.91,180
+ITM-1450,Cake,Dairy,47.2,37
+ITM-1451,Juice,Frozen Foods,31.22,53
+ITM-1452,Cake,Frozen Foods,9.34,172
+ITM-1453,Coffee,Bakery,16.94,175
+ITM-1454,Tomatoes,Produce,45.92,71
+ITM-1455,Bread,Bakery,49.12,72
+ITM-1456,Cheese,Bakery,16.79,143
+ITM-1457,Milk,Beverages,43.07,96
+ITM-1458,Butter,Dairy,15.79,166
+ITM-1459,Ice Cream,Frozen Foods,34.78,185
+ITM-1460,Butter,Frozen Foods,11.34,49
+ITM-1461,Frozen Chicken,Produce,13.89,165
+ITM-1462,Milk,Produce,17.16,152
+ITM-1463,Juice,Frozen Foods,35.52,117
+ITM-1464,Frozen Pizza,Beverages,38.58,122
+ITM-1465,Bananas,Dairy,17.66,26
+ITM-1466,Croissants,Beverages,12.59,164
+ITM-1467,Frozen Pizza,Produce,25.14,122
+ITM-1468,Water,Bakery,7.7,59
+ITM-1469,Water,Dairy,11.78,131
+ITM-1470,Frozen Pizza,Dairy,34.26,20
+ITM-1471,Bread,Bakery,27.05,138
+ITM-1472,Frozen Veggies,Produce,41.73,104
+ITM-1473,Butter,Dairy,37.75,150
+ITM-1474,Milk,Bakery,39.26,129
+ITM-1475,Yogurt,Frozen Foods,7.55,140
+ITM-1476,Muffins,Frozen Foods,42.49,101
+ITM-1477,Butter,Beverages,4.95,51
+ITM-1478,Croissants,Dairy,17.34,134
+ITM-1479,Butter,Frozen Foods,13.02,17
+ITM-1480,Cake,Dairy,16.05,141
+ITM-1481,Apples,Produce,29.03,98
+ITM-1482,Soda,Bakery,28.27,105
+ITM-1483,Water,Beverages,5.05,6
+ITM-1484,Soda,Produce,4.43,196
+ITM-1485,Yogurt,Dairy,16.37,39
+ITM-1486,Muffins,Frozen Foods,46.95,5
+ITM-1487,Frozen Pizza,Bakery,36.3,93
+ITM-1488,Coffee,Produce,41.26,71
+ITM-1489,Frozen Chicken,Frozen Foods,10.27,192
+ITM-1490,Muffins,Beverages,26.75,28
+ITM-1491,Coffee,Bakery,30.13,86
+ITM-1492,Water,Frozen Foods,37.1,112
+ITM-1493,Bananas,Produce,49.39,149
+ITM-1494,Butter,Beverages,42.43,25
+ITM-1495,Ice Cream,Frozen Foods,9.5,193
+ITM-1496,Bananas,Beverages,12.57,156
+ITM-1497,Frozen Pizza,Dairy,46.11,64
+ITM-1498,Bread,Beverages,2.26,106
+ITM-1499,Bananas,Produce,5.83,191
